@@ -1,4 +1,4 @@
-## BME680 Sensor Package for micro:bit
+## BME680 Sensor Package for micro:bit & Excel Data Streamer Add-in
 
 > Visit the Original Repository: [https://github.com/dwass/apple](https://github.com/dwass/apple)
 
