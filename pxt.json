@@ -1,6 +1,6 @@
 {
-    "name": "EdUHK - BME680",
-    "description": "MakeCode BME680 Sensor Package for micro:bit",
+    "name": "DataStreamer - BME680 (Demo Version)",
+    "description": "MakeCode BME680 Sensor Package for micro:bit and Excel Data Streamer Add-in",
     "dependencies": {
         "core": "*"
     },
