@@ -1,0 +1,17 @@
+{
+    "name": "EdUHK - BME680",
+    "description": "MakeCode BME680 Sensor Package for micro:bit",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ]
+}
